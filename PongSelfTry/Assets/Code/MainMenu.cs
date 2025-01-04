@@ -6,13 +6,9 @@ public class MainLoad : MonoBehaviour
 {
     public float transitionTime;
     public Animator transition;
-    public void PlayGame1()
+    public void PlayGame()
     {
         StartCoroutine(PlayGame(1));
-    }
-    public void PlayGame2()
-    {
-        StartCoroutine(PlayGame(2));
     }
     public void QuitGame()
     {
@@ -24,5 +20,10 @@ public class MainLoad : MonoBehaviour
         transition.SetTrigger("Start");
         yield return new WaitForSeconds(transitionTime);
         SceneManager.LoadScene(levelIndex);
+    }
+
+    public void StartTransition()
+    {
+        transition.Play("Fade");
     }
 }

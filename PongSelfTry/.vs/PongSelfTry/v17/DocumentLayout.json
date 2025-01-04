@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|c:\\users\\santr\\downloads\\devsoc\\pong2\\pongselftry\\assets\\code\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\volumemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\volumemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|c:\\users\\santr\\downloads\\devsoc\\pong2\\pongselftry\\assets\\code\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\ppcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ppcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\volumemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\volumemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\ppcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ppcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF5516FE-6B6C-925D-A073-4F913B0F34D1}|Assembly-CSharp.csproj|C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\assets\\code\\botmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PPControls.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\PPControls.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\PPControls.cs",
@@ -58,20 +58,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PauseMenu.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\PauseMenu.cs",
               "ToolTip": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\PauseMenu.cs",
               "RelativeToolTip": "Assets\\Code\\PauseMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T10:26:14.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T10:26:14.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\AudioManager.cs",
@@ -83,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "VolumeManager.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\VolumeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\VolumeManager.cs",
@@ -107,38 +106,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\MainMenu.cs",
               "ToolTip": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Code\\MainMenu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T09:52:39.357Z"
+              "WhenOpened": "2024-12-26T09:52:39.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\Ball.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\Ball.cs",
               "ToolTip": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\Ball.cs",
               "RelativeToolTip": "Assets\\Code\\Ball.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIBJwC8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T05:32:53.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T05:32:53.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\santr\\Downloads\\DevSoc\\Pong2\\PongSelfTry\\Assets\\Code\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Code\\PlayerMovement.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwCQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T04:01:13.399Z"
             }

@@ -13,26 +13,34 @@ public class Ball : MonoBehaviour
     private Rigidbody2D rb;
     private int hitcounter;
 
+    PlayerMovement player1Movement;
+    PlayerMovement player2Movement;
+
     public ParticleSystem wallImpact;
     public ParticleSystem playerImpact;
     public ParticleSystem scoreImpact;
     AudioManager audioManager;
+    Color normal = new(0.9098039f, 0.6862745f, 0.2039216f, 1f);
 
     private void Awake()
     {
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+        player1Movement = GameObject.Find("Player1").GetComponent<PlayerMovement>();
+        player2Movement = GameObject.Find("Player2").GetComponent<PlayerMovement>();
     }
-    void Start()
+    public void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         Invoke(nameof(StartBall), 3f);
-        rb.linearVelocity = new Vector2(0, 0);
+        rb.linearVelocity = Vector2.zero;
         transform.position = Vector3.zero;
         hitcounter = 0;
         p1 = 0;
         p2 = 0;
+        p1Score.text = p1.ToString();
+        p2Score.text = p2.ToString();
     }
-
+    
     void StartBall()
     {
         bool isRight = UnityEngine.Random.value >= 0.5;
@@ -131,5 +139,13 @@ public class Ball : MonoBehaviour
     {
         scoreImpact.Play();
         audioManager.PlaySFX(audioManager.score);
+    }
+
+    public void RestartGame()
+    {
+        CancelInvoke();
+        player1Movement.ResetPositions();
+        player2Movement.ResetPositions();
+        Start();
     }
 }
